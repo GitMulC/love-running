@@ -273,6 +273,13 @@ transform: scale(1.1);
             float: left;
         }
 
+        #times > div {
+            width: 20%;
+            clear: both;
+            height: 150px;
+            padding: 0;
+        }
+
         hr {
             display: none;
         }
